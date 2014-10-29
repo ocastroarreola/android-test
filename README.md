@@ -1,4 +1,4 @@
 android-test
 ============
 
-Test proyect for android app
+Test proyect for android apps
